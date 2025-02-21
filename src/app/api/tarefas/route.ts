@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 
-let tarefas = [
+const tarefas = [
     {"id" : 1, "titulo" : "Aprender Next"}
 ];
 

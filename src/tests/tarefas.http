@@ -8,3 +8,12 @@ Content-Type: application/json
     "id" : 35,
     "titulo" : "Teste POST sdadsd"
 }
+
+###
+POST https://exemplo-api-pi.vercel.app/api/tarefas
+Content-Type: application/json
+
+{
+    "id" : 35,
+    "titulo" : "Teste POST sdadsd"
+}

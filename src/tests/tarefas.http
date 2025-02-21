@@ -1,0 +1,10 @@
+GET https://friendly-halibut-gx4ppjp4p7hpvq7-3000.app.github.dev/api/tarefas
+
+###
+POST https://friendly-halibut-gx4ppjp4p7hpvq7-3000.app.github.dev/api/tarefas
+Content-Type: application/json
+
+{
+    "id" : 35,
+    "titulo" : "Teste POST sdadsd"
+}
